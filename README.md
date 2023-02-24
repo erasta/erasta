@@ -21,7 +21,7 @@
 
 📫 How to reach me:  
 - [eran.dev](https://eran.dev/)
-
+- <a rel="me" href="https://mastodon.social/@erasta">mastodon.social</a>
 
 <!--
 **erasta/erasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
